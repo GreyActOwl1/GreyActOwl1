@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GearSwap](https://github.com/Group-18-Devs/GearSwap) and [PixelPal](https://github.com/GreyActOwl1/PixelPal)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Kotlin, TypeScript**
 
 - 💬 Ask me about **React, Python**
 
