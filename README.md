@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate full stack and mobile developer with an interest in cyberscurity</h3>
+<h3 align="center">A passionate full stack and mobile developer with an interest in cybersecurity</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greyactowl1" alt="greyactowl1" /></a> </p>
 
-- 🔭 I’m currently working on [TheaterTrack](https://github.com/GreyActOwl1/TheaterTrack2)
+- 🔭 I’m currently working on [GearSwap](https://github.com/Group-18-Devs/GearSwap) and [PixelPal](https://github.com/GreyActOwl1/PixelPal)
 
 - 🌱 I’m currently learning **Kotlin**
 
