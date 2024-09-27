@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=greyactowl1" alt="greyactowl1" /></a> </p>
 
-- 🔭 I’m currently working on [GearSwap](https://github.com/Group-18-Devs/GearSwap) and [PixelPal](https://github.com/GreyActOwl1/PixelPal)
+- 🔭 I’m currently working on [GearSwap](https://github.com/Group-18-Devs/GearSwap) and [CloutCraft](https://github.com/GreyActOwl1/CloutCraft)
 
 - 🌱 I’m currently learning **Kotlin, TypeScript**
 
